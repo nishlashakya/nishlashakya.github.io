@@ -54,7 +54,7 @@ body a:focus {
 /*-- banner --*/
 
 .banner {
-    background: url(../images/nish.JPG)no-repeat center 0px fixed;
+    background: url(../images/nish.jpg)no-repeat center 0px fixed;
     background-size: cover;
     -webkit-background-size: cover;
     -o-background-size: cover;
