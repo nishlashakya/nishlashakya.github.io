@@ -54,13 +54,13 @@ body a:focus {
 /*-- banner --*/
 
 .banner {
-    background: url(../images/bg2.jpg)no-repeat center 0px fixed;
+    background: url(../images/nish.JPG)no-repeat center 0px fixed;
     background-size: cover;
     -webkit-background-size: cover;
     -o-background-size: cover;
     -moz-background-size: cover;
     -ms-background-size: cover;
-   
+
 }
 .banner-text {
     padding: 16em 0;
@@ -1099,7 +1099,7 @@ ul.w3-links li a i.fa:hover {
 
 /* -- Responsive code -- */
 @media screen and (max-width: 1600px){
-    
+
 }
 @media screen and (max-width: 1440px){}
 @media screen and (max-width: 1366px){}
@@ -1246,7 +1246,7 @@ ul.w3-links li a i.fa:hover {
     }
 }
 @media screen and (max-width: 736px){
-    
+
     .banner-text {
         padding: 8.5em 0;
     }
@@ -1337,7 +1337,7 @@ ul.w3-links li a i.fa:hover {
     .nav-tabs {
         width: 82%;
     }
-    
+
 }
 @media screen and (max-width: 568px){
     .services-w3ls-row.agileits-w3layouts.service1, .services- w3ls-row.agileits-w3layouts.service4, .services-grid.agileits-w3layouts.service2 {
