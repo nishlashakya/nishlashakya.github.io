@@ -54,7 +54,7 @@ body a:focus {
 /*-- banner --*/
 
 .banner {
-    background: url(../images/nish.JPG)no-repeat center 0px fixed;
+    background: url(../images/g2.jpg)no-repeat center 0px fixed;
     background-size: cover;
     -webkit-background-size: cover;
     -o-background-size: cover;
@@ -1143,6 +1143,7 @@ ul.w3-links li a i.fa:hover {
     .banner-text h1 {
         font-size: 3.3em;
         padding: 0 0.5em;
+        margin-top: -81px;
     }
     a.buy{
         width:23%;
@@ -1234,7 +1235,7 @@ ul.w3-links li a i.fa:hover {
         font-size: 3.1em;
     }
     a.buy {
-        margin: 2.5em auto 0;
+        margin: 15em auto 0;
     }
 }
 @media screen and (min-width: 737px){
